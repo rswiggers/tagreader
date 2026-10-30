@@ -4,6 +4,8 @@
 
 # Tag Reader for Home Assistant
 
+This is a Forke of adonno/tagreader only to solve the error on HA version 2026.10
+
 The tag reader is a simple to build/use NFC tag reader, specially created for [Home Assistant](https://www.home-assistant.io). It is using a D1 mini ESP 8266 and the PN532 NFC module. The firmware is built using [ESPhome](https://www.esphome.io).
 
 > I am selling a pre-built version, a DIY version (assembly required), or just the case (use with own components). Check it out on [my website](https://adonno-crafts.myshopify.com/).
